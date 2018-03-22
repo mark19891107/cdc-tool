@@ -9,6 +9,7 @@ CDC 小工具（CDC tool）
 
 ### 預計要做的事情：
 - [ ] 下載所有法定傳染病的 [PDF](https://www.cdc.gov.tw/professional/diseasedefine.aspx?treeid=4c19a0252bbef869&nowtreeid=0fe296e4605ca88b) 
-- [ ] PDF -> Gitbook 並從中找出一些結構
-- [ ] Gitbook -> JSON 結構化資料
+- [ ] ~~PDF -> Gitbook 並從中找出一些結構~~
+- [ ] ~~Gitbook -> JSON 結構化資料~~
+- [ ] PDF -> green CDA 格式
 - [ ] JSON -> PWA 手機網頁，提供方便的查詢，可暫存在手機當中
